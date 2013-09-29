@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="wright-grammar.rnc" type="application/relax-ng-compact-syntax" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Grammar of the Arabic Language, translated from the German of Caspari, and edited with numerous additions and corrections</title>
+        <author>William Wright</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p> 
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <cRefPattern
+          matchPattern="([0-9]+):([0-9]+)"
+          replacementPattern="#xpath(//body/div1[$1]/div6[$2])"/>
+      </refsDecl>    
+      
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <div type="volume" n="1">
+        <div type="part" n="First">
+          <head>Orthography and Orthoëpy</head>
+          <div type="level3" n="I" xml:id="the-letters-as-consonants">
+            <head>The Letters as Consonants</head>
+            <div type="par" n="1"><p>
+              Arabic, like Hebrew and Syriac, is written and read from <milestone unit="letter" n="A"/> 
+              right to left. The letters of the alphabet ( ) are twenty-eight in 
+              number, and are all consonants, though three of them are also used 
+              as vowels (see § 3). They vary in form, according as they are connected 
+              with a preceding or following letter, and, for the most part, 
+              terminate in a bold stroke, when they stand alone or at the end of 
+              a word. The following Table gives the letters in their usual order, 
+              along with their names and numerical values.</p>
+            </div>
+          </div>
+        </div>
+        <div type="part" n="Second">
+          <pb n="29" facs="p0047.png"/>
+          <head>Etymology or the Parts of Speech.</head>
+          <div type="level3" n="I">
+            <head>The Verb, <arabicWord>اَلْفِعْلُ</arabicWord>.</head>
+            <milestone unit="letter" n="A"/>
+            <div type="level4" n="A">
+              <head>General View.</head>
+              <div type="level5" n="1" xml:id="the-forms-of-the-triliteral-verb">
+                <head>The Forms of the Triliteral Verb.</head>
+                <div type="par" n="33"><p>The great majority of the Arabic verbs
+                are triliteral (<term xml:lang="arb">ثُلَاثِيٌّ</term>), that is to 
+                say, contain three radical letters, though quadriliteral 
+                (<term xml:lang="arb">رُبَاعِيٌّ</term>) verbs are by no means rare.
+                </p> </div>
+                <div type="par" n="34"><p><milestone unit="letter" n="B"/>From 
+                the first or ground-form of the triliteral and quadriliteral 
+                verbs are derived in different ways several other forms, which 
+                express various modifications of the idea conveyed by the first.
+                </p></div>
+                <div type="par" n="35"><p>The derived forms of the triliteral 
+                verb are usually reckoned fifteen in number, but the learner may
+                 pass over the last four, because (with the exception of the 
+                 twelfth) they are of very rare occurrence.</p>
+                  <list rend="col3" type="ordered" dir="rtl">
+                    <label>I.</label>
+                    <item>فَعَلَ</item>
+                    <label>II.</label>
+                    <item>فَعَّلَ</item>
+                    <label>III.<milestone unit="letter" n="C"/></label>
+                    <item>فَاعَلَ</item>
+                    <label>IV.</label>
+                    <item>أَفْعَلَ</item>
+                    <label>V.</label>
+                    <item>تَفَعَّلَ</item><cb/>
+                    <label>VI.</label>
+                    <item>تَفَاعَلَ</item>
+                    <label>VII.</label>
+                    <item>اِنْفَعَلَ</item>
+                    <label>VIII.</label>
+                    <item>اِفْتَعَلَ</item>
+                    <label>IX.</label>
+                    <item>اِفْعَلَّ</item>
+                    <label>X.</label>
+                    <item>اِسْتَفْعَلَ</item><cb/>
+                    <label>XI.</label>
+                    <item>اِفْعَالَّ</item>
+                    <label>XII.</label>
+                    <item>اِفْعَوْعَلَ</item>
+                    <label>XIII.</label>
+                    <item>اِفْعَوَّلَ</item>
+                    <label>XIV.</label>
+                    <item>اِفْعَنْلَلَ</item>
+                    <label>XV.</label>
+                    <item>اِفْعَنْلَى</item>
+                  </list>
+                  <div type="rem" n="a"><p><milestone unit="letter" n="A"/>
+                    The <abbr>3d</abbr> <abbr>pers.</abbr> 
+                    <abbr>sing.</abbr> <abbr>masc</abbr> <abbr>Perf.</abbr>,
+                    being the simplest form of the verb, is commonly used as 
+                    paradigm, but for shortness’ sake, we always render it into
+                   English by the infinitive; <arabicWord>قَتَلَ<trans>to kill</trans>
+                   </arabicWord>, instead of <trans>he has killed.</trans></p></div>
+                  <pb n="30" facs="p0048.png"/>
+                  <div type="rem" n="b"><p>The arab grammarians use the verb 
+                    <arabicWord>فَعَلَ</arabicWord>(<distinct xml:lang="he">פָעַל</distinct>)
+                  as paradigm, whence the first radical of the triliteral verb is called
+                  by them <arabicWord>اَلْفَآءُ<trans>the fā</trans></arabicWord>,
+                    the second <arabicWord>اَلْعَيْنُ<trans>the ʿain</trans></arabicWord>,
+                    and the third <arabicWord>اَللَّمُ<trans>the lām</trans></arabicWord>.</p></div>  
+                  <div type="rem" n="c"><p>As the above order and numbering of the
+                  conjugations are those adopted in all the European Lexicons, the learner
+                  should note them carefully.
+                  </p></div>
+                </div>
+                <div type="par" n="36"><p>the <term>first</term> or ground-form is
+                generally transitive (<term xml:lang="arb">مُتَعَدٍّ</term>) or intransitive
+                  (<term xml:lang="arb">غَيْرُ مُتَعَدٍّ</term> or <term xml:lang="arb">لَازمٌ</term>)
+                in signification, according to the vowel which accompanies its second
+                radical.</p></div>
+                <div type="par" n="37"><p><milestone unit="letter" n="B"/>
+                The vowel of the second radical is <emph>a</emph> in most of the 
+                transitive, and not a few of the intransitive verbs; e.g. <arabicWord>ضَرَبَ
+                <trans>to beat</trans></arabicWord>, <arabicWord>كَتَبَ
+                <trans>to read</trans></arabicWord>, <arabicWord>قَتَلَ
+                <trans>to kill</trans></arabicWord>, 
+                <arabicWord>وَهَبَ<trans>to give</trans></arabicWord>;
+                <arabicWord>ذَهَبَ<trans>to go away</trans></arabicWord>,
+                <arabicWord>رَشَدَ<trans>to go the right way</trans></arabicWord>                </p></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
