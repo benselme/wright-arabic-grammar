@@ -25,6 +25,107 @@
     </encodingDesc>
   </teiHeader>
   <text>
+    <front>
+        <pb n="v" facs="p0008.png"/>
+        <div type="preface">
+            <head>Preface to the third edition</head>
+            <p>The Second Edition of Wright's Grammar of the Arabic language
+            had been out of print long before the death of its author, but
+            he was never able to find the leisure necessary for preparing a
+            New Edition. The demand for it having become more and more 
+            pressing, Prof. W. Robertson Smith, who well deserved the honour
+            of succeeding to Wright's chair, resolved to undertake this 
+            task. He bagan it with his usual ardour, but the illness which cut
+            short his inevaluable life soon interrupted the work. At his death
+            56 pages had been printed, whilst the revision had extended over 30
+            pages more. Robertson Smith had made use of some notes of mine,
+            which he had marked with my initials, and it was for this reason
+            among others that the Syndics of the Cambridge University Press
+            invited me, through Prof. Bevan, to continue the revision. After
+            earnest deliberation I consented, influenced chiefly by my respect
+            for the excellent work of one of my dearest friends and by a desire
+            to complete that which another dear friend had begun. Moreover Prof.
+            Bevan promised his assistance in correcting the English style and
+            in seeing the book through the press.</p>
+            <p>I have of course adhered to the method followed by Robertson
+	    Smith in that part of the Grammar which he revised. Trifling 
+	    corrections and additions and such suggestions as had already
+	    been made by A. Mtiller, Fleischer and other scholars, are given
+	    in square brackets. Only in those cases where it seemed necessary
+	    to take all the responsibility upon myself, have I added my 
+	    initials. Besides the printed list of additions and corrections at
+	    the end of the Second Volume, Wright had noted here and there
+	    <pb n="vi" facs="p0009.png" />on the margin of his own copy some 
+	    new examples (chiefly fromthe Naḳāiḍ) which have been inserted, 
+	    unless they seemed quite superfluous, without any distinctive sign. 
+	    I have found but very few notes by Robertson Smith on the portion 
+	    which he had not definitely revised ; almost all of these have been 
+	    marked with his initials. Wright's own text has been altered in a 
+	    comparatively small number of passages (for instance § 252, § 353),
+	    where I felt sure that he would have done it himself. Once or twice 
+	    Wright has noted on the margin " wants revision."</p>
+	    <p>The notes bearing upon the Comparative Grammar of the Semitic 
+	    languages have for the most part been replaced by references to 
+	    Wright's Comparative Grammar, published after his death by 
+	    Robertson Smith (1890).</p>
+	    <p>I have to acknowledge my obligations to Mr Du Pré Thornton, who 
+	    drew my attention to several omissions. But my warmest thanks must
+	    be given to my dear friend and colleague Prof. Bevan, who has not 
+	    only taken upon himself all the trouble of seeing this revised 
+	    edition through the press, but by many judicious remarks has 
+	    contributed much to the improving of it.</p>
+	    <p>The Second Volume is now in the printers' hands.</p>
+	    <closer>
+	      <signed>M. J. de GOEJE.</signed>
+	      <dateline>Leyden, February, 1896.</dateline>
+	    </closer>
+        </div>
+        <pb n="vi" facs="p0009.png" />
+	<div type="preface">
+	  <head>Preface to the second edition.</head>
+	  <p>A Second Edition of my revised and enlarged translation of
+	  Caspari's Arabic Grammar having been called for, I have thought it 
+	  my duty not simply to reprint the book, but to subject it again to a 
+	  thorough revision. In fact, the present is almost a new work ; for 
+	  there is hardly a section which has not undergone alteration, and 
+	  much additional matter has been given, as the very size of this 
+	  volume (351 pages instead of 257) shows.</p>
+	  <p>In revising the book I have availed myself of the labours of Arab 
+	  Grammarians, both ancient and modern. Of the former I may mention in 
+	  particular the ʾAlfīya (اَلْأَفِيَّةُ) of ʾIbn Mālik, with the 
+	  Commentary of ʾIbn Aḳīl (ed. Dieterici, 1851, and the Beirut edition 
+	  of 1872); the Mufaṣṣal (اَلْمُفَصَّلُ) of ʾel-Zamahśarī (ed.Broch, 
+	  1859) ; and the Lāmīyatu ʾl-Afʿāl (لَامِيَّةُ ٱلْأَفْعَالِ) of 
+	  ʾIbn Mālik, with the Commentary of his son Badru ʾd-dīn (ed. 
+	  Volck,1866). Of recent native works I have diligently used the 
+	  Miṣbāḥu ʾl-Ṭālib fī Baḥṯi ʾl-Maṭālib 
+		  (مِصْبَاحُ ٱلْطَّالِبِ فِي بَحْثِ ٱلْمَطَالِبِ),		
+	  that is, the Baḥṯu ʾl-Maṭālib of the Maronite Gabriel Farḥāt, with the 
+	  notes of Buṭrus ʾel-Bistānī (Beirut, 1854); ʾel-Bistānī's smaller 
+	  Grammar, founded upon the above, entitled Miftāḥu ʾl-Misbāḥ 
+	  (مِفْتَاحُ ٱلْمِصْبَاحِ, second edition, Beirut, 1867);
+	  and Nāṣif ʾel-Yāziǵī's Faṣlu ʾl-H̱iṭāb
+(فَصْلُ ٱلْخِطَابِ, second edition, Beirut,1866).
+</p>
+	  <p>Among European Grammarians I have made constant use ofthe works of 
+	  S. de Sacy (Grammaire Arabe, 2de éd., 1831), Ewald (Grammatica 
+	  Critica Linguaæ Arabicæ, 1831-33), and Lumsden (A Grammar of the 
+	  Arabic Language, vol. i., 1813) ; which last,
+	  <pb n="viii" facs="p0010.png" />however, is based on the system of the 
+	  Arab Grammarians, and therefore but ill-adapted, apart from its bulk 
+	  and rarity, for the use of beginners. I have also consulted with 
+	  advantage the grammar of Professor Lagus of Helsingfors (Lärokurs i 
+	  Arabiska Språket, 1869). But I am indebted above all to the labours 
+	  of Professor Fleischer of Leipzig, whose notes on the first volume 
+	  of De Sacy's Grammar (as far as p. 359) have appeared from time to 
+	  time in the Berichte der Konigl. Sachsischen Gesellschaft 
+	  der Wissenschaften (1863-64-66-70), in which periodical the 
+	  student will also find the treatises of the same scholar Ueber einige 
+	  Artender Nominal apposition im Arabischen (1862) and Ueber 
+	  das Verhdltniss und die Construction der Sack- and Stoffworter 
+	  im Arabischen (1856).</p>
+	</div>
+    </front>
     <body>
 
       <div type="volume" n="1">
@@ -33,19 +134,19 @@
           <div type="level3" n="I" xml:id="the-letters-as-consonants">
             <head>The Letters as Consonants</head>
             <div type="par" n="1"><p>
-              Arabic, like Hebrew and Syriac, is written and read from <milestone unit="letter" n="A"/> 
-              right to left. The letters of the alphabet ( ) are twenty-eight in 
-              number, and are all consonants, though three of them are also used 
-              as vowels (see § 3). They vary in form, according as they are connected 
-              with a preceding or following letter, and, for the most part, 
-              terminate in a bold stroke, when they stand alone or at the end of 
-              a word. The following Table gives the letters in their usual order, 
-              along with their names and numerical values.</p>
-            </div>
+            Arabic, like Hebrew and Syriac, is written and read from 
+            <milestone unit="letter" n="A"/> right to left. The letters of the
+            alphabet ( ) are twenty-eight in, and are all consonants, though
+            three of them are also used vowels (see § 3). They vary in form,
+            according as they are connected with a preceding or following letter,
+            and, for the most part, terminate in a bold stroke, when they stand
+            alone or at the end of a word. The following Table gives the letters
+            in their usual order, along with their names and numerical values.
+            </p></div>
           </div>
         </div>
+        <pb n="29" facs="p0047.png"/>
         <div type="part" n="Second">
-          <pb n="29" facs="p0047.png"/>
           <head>Etymology or the Parts of Speech.</head>
           <div type="level3" n="I">
             <head>The Verb, <arabicWord>اَلْفِعْلُ</arabicWord>.</head>
@@ -106,7 +207,7 @@
                     being the simplest form of the verb, is commonly used as 
                     paradigm, but for shortness’ sake, we always render it into
                    English by the infinitive; <arabicWord>قَتَلَ<trans>to kill</trans>
-                   </arabicWord>, instead of <trans>he has killed.</trans></p></div>
+                   </arabicWord>, instead of <trans>he has killed</trans>.</p></div>
                   <pb n="30" facs="p0048.png"/>
                   <div type="rem" n="b"><p>The arab grammarians use the verb 
                     <arabicWord>فَعَلَ</arabicWord>(<distinct xml:lang="he">פָעַל</distinct>)
@@ -120,31 +221,33 @@
                   </p></div>
                 </div>
                 <div type="par" n="36"><p>the <term>first</term> or ground-form is
-                generally transitive (<term xml:lang="arb">مُتَعَدٍّ</term>) or intransitive
-                  (<term xml:lang="arb">غَيْرُ مُتَعَدٍّ</term> or <term xml:lang="arb">لَازمٌ</term>)
-                in signification, according to the vowel which accompanies its second
-                radical.</p></div>
+                generally transitive (<term xml:lang="arb">مُتَعَدٍّ</term>) or
+                intransitive (<term xml:lang="arb">غَيْرُ مُتَعَدٍّ</term> or 
+                <term xml:lang="arb">لَازمٌ</term>)
+                in signification, according to the vowel which accompanies its
+                second radical.</p></div>
                 <div type="par" n="37"><p><milestone unit="letter" n="B"/>
                 The vowel of the second radical is <emph>a</emph> in most of the 
-                transitive, and not a few of the intransitive verbs; e.g. <arabicWord>ضَرَبَ
-                <trans>to beat</trans></arabicWord>, <arabicWord>كَتَبَ
-                <trans>to read</trans></arabicWord>, <arabicWord>قَتَلَ
-                <trans>to kill</trans></arabicWord>, 
+                transitive, and not a few of the intransitive verbs; e.g.
+                <arabicWord>ضَرَبَ<trans>to beat</trans></arabicWord>,
+                <arabicWord>كَتَبَ<trans>to read</trans></arabicWord>,
+                <arabicWord>قَتَلَ<trans>to kill</trans></arabicWord>, 
                 <arabicWord>وَهَبَ<trans>to give</trans></arabicWord>;
                 <arabicWord>ذَهَبَ<trans>to go away</trans></arabicWord>,
                 <arabicWord>رَشَدَ<trans>to go the right way</trans></arabicWord>,
                 <arabicWord>جَلَسَ<trans>to sit</trans></arabicWord>. 
                 </p></div>
                 <div type="par" n="38"><p>The vowel <emph>i</emph> in the same
-                position has generally an intransitive signification, <emph>u</emph>
-                invariably so. The distinction between them is, that <emph>i</emph>
-                indicates a temporary state or condition, or a merely accidental
-                quality in persons or things; whilst <emph>u</emph> indicates a
-                permanent state, or a <milestone unit="letter" n="C"/> naturally
-                inherent quality. E.g. 
+                position has generally an intransitive signification, 
+                <emph>u</emph> invariably so. The distinction between them is,
+                that <emph>i</emph> indicates a temporary state or condition, or
+                a merely accidental in persons or things; whilst <emph>u</emph>
+                indicates a state, or a <milestone unit="letter" n="C"/> 
+                naturally quality. E.g. 
                 <arabicWord>فَرِحَ or جَذِلَ<trans>to be glad</trans></arabicWord>,
                 <arabicWord>حَزِنَ<trans>to be sorry</trans></arabicWord>,
-                <arabicWord>أَشِرَ or بَطِرَ<trans>to be proud and insolent</trans></arabicWord>,
+                <arabicWord>أَشِرَ or بَطِرَ<trans>to be proud and insolent</trans>
+                </arabicWord>,
                 <arabicWord>أَدِمَ<trans>to become whitish</trans></arabicWord>,
                 <arabicWord>شَهِبَ<trans>to become gray</trans></arabicWord>,
                 <arabicWord>سَلِمَ<trans>to be safe and sound</trans></arabicWord>,
@@ -156,32 +259,36 @@
                 <arabicWord>قَبُحَ<trans>to be ugly</trans></arabicWord>,
                 <arabicWord>ثَقُلَ<trans>to be heavy</trans></arabicWord>,
                 <arabicWord>شَرُفَ<trans>to be high or noble
-                  <note place="bottom">Or <trans>to become noble</trans> for the 
-                  form with <emph>u</emph> of the second radical often means 
-                    <emph>to become what one was not before</emph>, Kāmil, p.415 –De G.</note></trans></arabicWord>,
+                <note place="bottom">Or <trans>to become noble</trans> for the 
+                    form with <emph>u</emph> of the second radical often means 
+                    <emph>to become what one was not before</emph>, 
+                    Kāmil, p.415 –De G.</note></trans></arabicWord>,
                 <arabicWord>سَفُلَ<trans>to be low or mean</trans></arabicWord>,
-                  <arabicWord>كَبُرَ<trans>to be large</trans></arabicWord>,
-                  <arabicWord>صَغُرَ<trans>to be small</trans></arabicWord>,
+                <arabicWord>كَبُرَ<trans>to be large</trans></arabicWord>,
+                <arabicWord>صَغُرَ<trans>to be small</trans></arabicWord>.
                 </p>
                   <div type="rem" n="a"><p><milestone unit="letter" n="D"/>
-                Many verbs of the form فَعِلَ are transitive
-                according to our way of thinking, and therefore govern the accusative,
-                e.g. <arabicWord>عَلِمَ<trans>to know (scire)</trans></arabicWord>,
-                <arabicWord>حَسِبَ<trans>to think</trans></arabicWord>,
-                <arabicWord>رَحِمَ<trans>to pity or have mercy upon</trans></arabicWord>,
-                <arabicWord>سَمِعَ<trans>to hear</trans></arabicWord>.
-                  </p></div>
-                  <pb n="31" facs="p0049.png"/>
+                  Many verbs of the form فَعِلَ are transitive according to our 
+                  way of thinking, and therefore govern the accusative,
+                  e.g. <arabicWord>عَلِمَ<trans>to know (scire)</trans></arabicWord>,
+                  <arabicWord>حَسِبَ<trans>to think</trans></arabicWord>,
+                  <arabicWord>رَحِمَ<trans>to pity or have mercy upon</trans>
+                  </arabicWord>, <arabicWord>سَمِعَ<trans>to hear</trans>
+                  </arabicWord>.</p>
+                  </div>
+                <pb n="31" facs="p0049.png"/>
                   <div type="rem" n="b"><p><milestone unit="letter" n="A"/>
                     The same three forms occur in Hebrew and Aramaic, though
                     the distinction is in these languages no longer so clearly
                     marked. [See Comp. Gr. p. 165 seq.]
-                  </p></div>
+                    </p>
+                  </div>
                 </div>
             </div>
           </div>
-        </div>
-      </div>
+        </div> <!-- I -->
+        </div> <!-- part First -->
+      </div> <!-- volume 1 -->
     </body>
   </text>
 </TEI>
